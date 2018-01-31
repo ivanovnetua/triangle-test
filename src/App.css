@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  padding: 50px;
+  background: #e0e0e0;
+  min-height: 100vh;
+}
+
+
+.form-section {
+  margin: 20px;
+}
+
+.form-section span {
+  padding-right: 30px
+}
+
+.form-section input {
+  width: 50px;
+}
+.validation-message {
+  font-size: 10px;
+  padding: 5px;
+  color: red;
+}
+
+.result-section.red {
+  color: red;
+}
+
+.result-section.grey {
+  color: #757171;
+}
+.result-section.green {
+  color: green;
+}
+
+
